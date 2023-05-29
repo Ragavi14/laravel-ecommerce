@@ -1,0 +1,15 @@
+.heading {
+  padding: 10%;
+  text-align: center; 
+  background: #f4f7f6; 
+  color: rgb(252, 5, 5); 
+}
+body {
+    background-color: rgb(252, 2, 2);
+}
+img {
+    height: 100px;
+}
+button a:hover {
+    align-items: center;
+}

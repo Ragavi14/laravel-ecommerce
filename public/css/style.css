@@ -1,0 +1,55 @@
+.sidebar{
+    float: left;
+    background: #1a103b;
+    width: 10%;
+    height: 2000px;
+    color: white;
+
+}
+.sidebar a{
+    color: white;
+    text-decoration: none;
+    
+}
+.navbar {
+    background: #1a103b !important;
+    color: white;
+}
+.navbar a{
+    color: white;
+}
+.py-4 {
+    text-align: center;
+}
+
+.card-product{
+    border: 2px solid rgb(206, 199, 199);
+    margin: 3px;
+    padding: 10px;
+    font-size: 18px;
+    color: rgb(90, 88, 88);
+    
+  
+}
+.card-product:hover {
+    border-color: black;
+    color: rgb(38, 39, 39);
+}
+.cart-img-sec {
+    border: 1px solid rgb(218, 214, 214);
+    padding: 100px 50px;
+    /* border-radius: 20px; */
+    transition: border-width 0.6s linear;
+}
+.cart-img-sec:hover {
+     border-color: aqua;
+}
+/* .cart-img {
+
+    width: 45px;
+} */
+.cart-img:hover {
+    width: 150px !important;
+}
+
+
