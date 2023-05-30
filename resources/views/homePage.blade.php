@@ -10,9 +10,7 @@
                             <div  style="font-size: larger;">
                                <button class="btn" > <a href="{{ route('save-cart') }}">Cart</a> </button>
                             </div>
-                            <div  style="font-size: larger;">
-                               <button class="btn" > <a href="{{ route('create-product') }}">Home</a> </button>
-                            </div>
+                            
                         </div>  
         <div class="col-md-12"> 
         
